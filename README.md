@@ -19,8 +19,8 @@
 </p>
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Lucas%20Teixeira-ffffff?style=flat&logo=Linkedin&labelColor=ffffff&link=https://www.linkedin.com/in/lucastmp/&link=https://www.linkedin.com/in/lucastmp/
+[![Github Badge](https://img.shields.io/badge/Github-LucasTMP-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff&link=https://github.com/LucasTMP/&link=https://github.com/LucasTMP/)](https://github.com/LucasTMP/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Lucas%20Teixeira-0e76a8?style=flat&logo=Linkedin&logoColor=3b5998&labelColor=ffffff&link=https://www.linkedin.com/in/lucastmp/&link=https://www.linkedin.com/in/lucastmp/
 )](https://www.linkedin.com/in/lucastmp/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@lucastmp_-E1306C?style=flat&logo=instagram&labelColor=ffffff&link=https://www.instagram.com/lucastmp_/&link=https://www.instagram.com/lucastmp_/
 )](https://www.instagram.com/lucastmp_/)
