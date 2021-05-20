@@ -22,7 +22,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Lucas%20Teixeira-ffffff?style=flat&logo=Linkedin&labelColor=ffffff&link=https://www.linkedin.com/in/lucastmp/&link=https://www.linkedin.com/in/lucastmp/
 )](https://www.linkedin.com/in/lucastmp/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@lucastmp_-5851DB?style=flat&logo=instagram&labelColor=ffffff&link=https://www.instagram.com/lucastmp_/&link=https://www.instagram.com/lucastmp_/
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@lucastmp_-C13584style=flat&logo=instagram&labelColor=ffffff&link=https://www.instagram.com/lucastmp_/&link=https://www.instagram.com/lucastmp_/
 )](https://www.instagram.com/lucastmp_/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Lucas%20Teixeira-blue?style=flat&logo=facebook&labelColor=ffffff&link=https://www.facebook.com/lucastmp/&link=https://www.facebook.com/lucastmp/)](https://www.facebook.com/lucastmp/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Lucas%20Teixeira-3b5998?style=flat&logo=facebook&labelColor=ffffff&link=https://www.facebook.com/lucastmp/&link=https://www.facebook.com/lucastmp/
+)](https://www.facebook.com/lucastmp/)
 
