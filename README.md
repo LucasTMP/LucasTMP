@@ -1,5 +1,7 @@
 <img src="https://trio.dev/static/7d60950f8dd9f59626ee6862642c7d4a/418574886eab2a30904cd993d3f71f62.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+# Hi, I'm Fagner! :D
+
 <p align="left"> 
   Olá, meu nome é Lucas, sou Desenvolvedor <strong>Back-end</strong>.
 </p>
@@ -21,10 +23,13 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=helderavila2016@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=helderavila" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=lucastmp" /></a>
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@hxlder"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@lucastmp_"/></a>
+
+  <a href="#" alt="Github">
+  <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasTMP/></a>
 </p>  
 
 # Hi, I'm Fagner! :D
