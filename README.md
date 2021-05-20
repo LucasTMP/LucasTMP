@@ -19,19 +19,12 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=helderavila2016@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=lucastmp" /></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/Facebook-Lucas%20Teixeira-blue?style=flat&logo=facebook&labelColor=ffffff&link=https://www.facebook.com/lucastmp/&link=https://www.facebook.com/lucastmp/"/></a>
-
-  <a href="#" alt="Github">
-  <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasTMP/></a>
-
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Lucas%20Teixeira-ffffff?style=flat&logo=Linkedin&labelColor=ffffff&link=https://www.linkedin.com/in/lucastmp/&link=https://www.linkedin.com/in/lucastmp/
+)](https://www.linkedin.com/in/lucastmp/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@lucastmp_-5851DB?style=flat&logo=instagram&labelColor=ffffff&link=https://www.instagram.com/lucastmp_/&link=https://www.instagram.com/lucastmp_/
+)](https://www.instagram.com/lucastmp_/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Lucas%20Teixeira-blue?style=flat&logo=facebook&labelColor=ffffff&link=https://www.facebook.com/lucastmp/&link=https://www.facebook.com/lucastmp/)](https://www.facebook.com/lucastmp/)
 </p>  
 
 
