@@ -26,14 +26,12 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=lucastmp" /></a>
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@lucastmp_"/></a>
+  <img src="https://img.shields.io/badge/Facebook-Lucas%20Teixeira-blue?style=flat&logo=facebook&labelColor=ffffff&link=https://www.facebook.com/lucastmp/&link=https://www.facebook.com/lucastmp/"/></a>
 
   <a href="#" alt="Github">
   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasTMP/></a>
 
 
-  <img src="https://img.shields.io/badge/Facebook-Lucas%20Teixeira-blue?style=flat&logo=facebook&labelColor=ffffff&link=https://www.facebook.com/lucastmp/&link=https://www.facebook.com/lucastmp/">
-  
 </p>  
 
 
