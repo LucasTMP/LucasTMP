@@ -31,8 +31,8 @@
   <a href="#" alt="Github">
   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasTMP/></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/Facebook-Lucas%20Teixeira-blue?style=flat&logo=facebook&labelColor=ffffff&link=https://www.facebook.com/lucastmp/&link=https://www.facebook.com/lucastmp/"></a>
+
+  <img src="https://img.shields.io/badge/Facebook-Lucas%20Teixeira-blue?style=flat&logo=facebook&labelColor=ffffff&link=https://www.facebook.com/lucastmp/&link=https://www.facebook.com/lucastmp/">
   
 </p>  
 
