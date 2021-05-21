@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  💡 <strong>Conhecimentos:</strong> <img style="padding-bottom:10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  💡 <strong>Conhecimentos:</strong> JavaScript, HTML, CSS, UML, VBA, Redes, Photoshop, After Effects, Visual Basic, MySQL, MongoDB, React, Pacote Office.
 </p>
 
 <p align="left">
-  🧰 <strong>Conhecimentos:</strong> 
+  🧰 <strong>Uso atualmente as ferramentas:</strong> Visual Studio Code, Insomnia, 
 </p>
 
 <p align="left">
