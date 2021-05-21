@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💡 <strong>Conhecimentos:</strong> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  💡 <strong>Conhecimentos:</strong> <img style="padding-bottom:10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 <p align="left">
