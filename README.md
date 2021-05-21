@@ -1,4 +1,3 @@
-markdown: kramdown
 # Olá, sou o Lucas 🖐
 
 <img src="https://webenezer.com.br/wp-content/uploads/2019/02/Important-Things-to-Look-For-When-Selecting-a-Web-Development-Company.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
