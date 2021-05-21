@@ -3,7 +3,7 @@
 <img src="https://webenezer.com.br/wp-content/uploads/2019/02/Important-Things-to-Look-For-When-Selecting-a-Web-Development-Company.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
 
 <p align="left"> 
- - 👨 Sobre: Sou <strong> Analista Desenvolvedor Back-end</strong>.
+  <li>👨 <strong>Sobre:</strong>. Tenho 22 anos, brasileiro, formado em ADS (Análise e Desenvolvimento de Sistemas), resido no estado de São Paulo, Brasil, e adoro o mundo da tecnologia, principalmente as áreas de desenvolvimento e segurança da informação.</li>
 </p>
 
 <p align="left">
