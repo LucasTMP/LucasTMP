@@ -1,6 +1,6 @@
 # Olá, sou o Lucas
 
-<img src="https://trio.dev/static/7d60950f8dd9f59626ee6862642c7d4a/418574886eab2a30904cd993d3f71f62.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://webenezer.com.br/wp-content/uploads/2019/02/Important-Things-to-Look-For-When-Selecting-a-Web-Development-Company.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá, meu nome é Lucas, sou Analista Desenvolvedor <strong>Back-end</strong>.
