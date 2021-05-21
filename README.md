@@ -1,9 +1,9 @@
 # Olá, sou o Lucas
 
-<img src="https://webenezer.com.br/wp-content/uploads/2019/02/Important-Things-to-Look-For-When-Selecting-a-Web-Development-Company.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://webenezer.com.br/wp-content/uploads/2019/02/Important-Things-to-Look-For-When-Selecting-a-Web-Development-Company.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
 
 <p align="left"> 
-  Olá, meu nome é Lucas, sou Analista Desenvolvedor <strong>Back-end</strong>.
+ - 👨 Sobre: Sou <strong> Analista Desenvolvedor Back-end</strong>.
 </p>
 
 <p align="left">
