@@ -11,15 +11,15 @@
 </p>
 
 <p align="left">
-  💡 <strong>Conhecimentos:</strong> JavaScript, HTML, CSS, UML, VBA, Redes, Photoshop, After Effects, Visual Basic, MySQL, MongoDB, React, Pacote Office.
+  💡 <strong>Conhecimentos:</strong> JavaScript, HTML, CSS, VBA, Visual Basic, React, Node.JS, MySQL, MongoDB, UML, LGPD, REST, Scrum, Redes, Photoshop, After Effects e Pacote Office.
 </p>
 
 <p align="left">
-  🧰 <strong>Uso atualmente as ferramentas:</strong> Visual Studio Code, Insomnia, 
+  🧰 <strong>Ferramentas utilizadas:</strong> Visual Studio Code, Insomnia, Cisco Packet Tracer, MySQL Workbench, MongoDBCompass, Xampp, Android Studio, Eclipse e Virtual Box.   
 </p>
 
 <p align="left">
-  💌 Se tu deseja desenvolver um projeto comigo ou bater um papo não hesite em me chamar: ⤵️
+  💌 <strong>Contato:</strong> Se precisar entrar em contato comigo para conversarmos ou realizar algum projeto, utilize as redes sociais abaixo: 👇
 </p>
 
 
