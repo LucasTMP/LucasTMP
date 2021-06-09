@@ -36,8 +36,8 @@
 
 <dl>
 <dt>
-<img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact"/>
-<img  width="480px" alt="LucasTMP" src="https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&theme=buefy&fire=DD2727&currStreakNum=5E54DD&currStreakLabel=5E54DD"/>
+<img  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact"/>
+<img  width="430px" alt="LucasTMP" src="https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&theme=buefy&fire=DD2727&currStreakNum=5E54DD&currStreakLabel=5E54DD"/>
 </dt>
 <dd>
 <hr>
