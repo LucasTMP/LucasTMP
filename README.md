@@ -30,23 +30,24 @@
 [![E-mail Badge](https://img.shields.io/badge/Email-lucas.tmp@outlook.com-f5f5f5?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0072C6)](mailto:lucas.tmp@outlook.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-Xrei%236436-ffffff?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discordapp.com/users/236735001134235648/)
 
-## **Informações Adicionais 📚**
+## **Informações Adicionais 📈**
 
-<dl align="center">
-  <img height="190px" alt="LucasTMP" src="https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&theme=buefy&fire=DD2727&currStreakNum=5E54DD&currStreakLabel=5E54DD" />
+  
+
+<dl>
+<dt>
+<img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact"/>
+<img  width="480px" alt="LucasTMP" src="https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&theme=buefy&fire=DD2727&currStreakNum=5E54DD&currStreakLabel=5E54DD"/>
+</dt>
+<dd>
+<hr>
+</dd>
 </dl>
-
- <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasTMP"
-    />
-  </a>
-</p>
+<div align="center">
+<label><b>Total de visualizações do perfil: &ensp;&ensp;</b></label>
+<img width="150px" height="16px" src="https://profile-counter.glitch.me/LucasTMP/count.svg" />
+</div>
+  
+## **Informações Adicionais 📈**
+![Github Badge](	https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact)
+![Linkedin Badge](	https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&theme=buefy&fire=DD2727&currStreakNum=5E54DD&currStreakLabel=5E54DD)
