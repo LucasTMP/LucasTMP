@@ -33,7 +33,7 @@
 ## **Informações Adicionais 📈**
 
 ![TopLangs Badge](	https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact)
-![Status Badge](	https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&theme=buefy&fire=DD2727&currStreakNum=5E54DD&currStreakLabel=5E54DD)
+![Status Badge](	https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&hide_border=true)
 
 <hr>
 <div align="center">
