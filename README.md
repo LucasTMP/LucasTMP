@@ -1,6 +1,6 @@
 # Olá, sou o Lucas 👋
 
-<img style="border-radius:50px" src="https://www.businesstrends.com.pk/wp-content/uploads/2019/03/Web-Development-Company.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
+<img style="border-radius:50px" src="https://i.ibb.co/DD8VXQr/perfil.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
 
 <p align="left"> 
   👨 <strong>Sobre:</strong> Tenho 22 anos, brasileiro, formado em ADS (Análise e Desenvolvimento de Sistemas), resido no estado de São Paulo, Brasil, e adoro o mundo da tecnologia, principalmente as áreas de desenvolvimento e segurança da informação.
