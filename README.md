@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  💡 <strong>Conhecimentos:</strong> JavaScript, HTML, CSS, VBA, Visual Basic, React, Node.JS, MySQL, MongoDB, UML, LGPD, REST, Scrum, Redes, Photoshop, After Effects e Pacote Office.
+  💡 <strong>Conhecimentos:</strong> C#, .Net, JavaScript, VBA, VB, Node.JS, MySQL, MongoDB, UML, Scrum, Redes, Adobe (PS, AE) e Pacote Office.
 </p>
 
 <p align="left">
-  🧰 <strong>Ferramentas utilizadas:</strong> Visual Studio Code, Insomnia, Cisco Packet Tracer, MySQL Workbench, MongoDBCompass, Xampp, Android Studio, Eclipse e Virtual Box.   
+  🧰 <strong>Ferramentas utilizadas:</strong> VS, VSCODE, GIT, Insomnia, Cisco Packet Tracer, MySQL Workbench, MongoDBCompass, Xampp, Android Studio, Eclipse e Virtual Box.   
 </p>
 
 <p align="left">
