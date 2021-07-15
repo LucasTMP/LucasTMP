@@ -32,7 +32,7 @@
  
 ## **Informações Adicionais 📈**
 
-![TopLangs Badge](	https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&langs_count=6&layout=compact)](https://github.com/LucasTMP)
 ![Status Badge](	https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&hide_border=true)
 
 <hr>
