@@ -3,7 +3,7 @@
 <img style="border-radius:50px" src="https://i.ibb.co/DD8VXQr/perfil.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
 
 <p align="left"> 
-  👨 <strong>Sobre:</strong> Tenho 22 anos, brasileiro, formado em ADS (Análise e Desenvolvimento de Sistemas), resido no estado de São Paulo, Brasil, e adoro o mundo da tecnologia, principalmente as áreas de desenvolvimento e segurança da informação.
+  👨 <strong>Sobre:</strong> Tenho 22 anos, brasileiro, formado em Análise e Desenvolvimento de Sistemas e adoro tecnologia, principalmente programação e cybersecurity.
 </p>
 
 <p align="left">
@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  💡 <strong>Conhecimentos:</strong> C#, .Net, JavaScript, VBA, VB, Node.JS, MySQL, MongoDB, UML, Scrum, Redes, Adobe (PS, AE) e Pacote Office.
+  💡 <strong>Conhecimentos:</strong> C#, .Net, JS, VBA, EFCORE, Node.JS, MySQL, MongoDB, UML, Elastic Stack, Redes.
 </p>
 
 <p align="left">
-  🧰 <strong>Ferramentas utilizadas:</strong> VS, VSCODE, GIT, Insomnia, Cisco Packet Tracer, MySQL Workbench, MongoDBCompass, Xampp, Android Studio, Eclipse e Virtual Box.   
+  🧰 <strong>Ferramentas utilizadas:</strong> VS, VSCODE, GIT, Insomnia, Cisco Packet Tracer, MySQL Workbench, MongoDBCompass, Docker, Virtual Box.   
 </p>
 
 <p align="left">
