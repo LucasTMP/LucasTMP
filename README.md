@@ -32,8 +32,11 @@
  
 ## **Informações Adicionais 📈**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&hide=Java,CSS&layout=compact)](https://github.com/LucasTMP)
-![Status Badge](	https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&hide_border=true)
+ <div>
+  <a href="https://github.com/LucasTMP">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&hide=Java,CSS&layout=compact"/>
+</div>
 
 <hr>
 <div align="center">
