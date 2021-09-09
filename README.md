@@ -14,10 +14,10 @@
   💡 <strong>Conhecimentos:</strong> C#, .Net, JS, VBA, EFCORE, Node.JS, MySQL, MongoDB, UML, ELK, Redis, Kafka, Testes, Redes, Docker.
 </p>
 
-[![Github Badge](	https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasTMP/)
-[![Linkedin Badge](	https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastmp/)
-[![Instagram Badge](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucastmp_/)
-[![Facebook Badge](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucastmp/)
+[![Github Badge](	https://img.shields.io/badge/C-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasTMP/)
+[![Linkedin Badge](	https://img.shields.io/badge/O-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastmp/)
+[![Instagram Badge](https://img.shields.io/badge/D-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucastmp_/)
+[![Facebook Badge](https://img.shields.io/badge/E-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucastmp/)
 [![Discord Badge](https://img.shields.io/badge/Discord-Lucas_Teixeira%236436-ffffff?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discordapp.com/users/236735001134235648/)
  
 ## **Informações Adicionais 📈**
