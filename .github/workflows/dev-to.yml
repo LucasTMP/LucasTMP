@@ -1,9 +1,7 @@
 name: Dev.To Integração
 on:
-  push:
   schedule:
-    # Todo dia as 12 #- cron: '0 12 * * *'
-     - cron: '5 * * * *'
+     - cron: '0 12 * * *'
 jobs:
   buscar-minhas-postagens:
     name: buscar-postagens
