@@ -21,10 +21,10 @@ jobs:
           enable_keepalive: true
           commit_message: "Commit para re-load do action Dev.To"
           committer_username: "dev-to-bot"
-          custom_tags: "categoryName/category/,categoryName1/category/,categoryName2/category/,categoryName3/category/"
+          custom_tags: "principalTag/category/"
           date_format: "dd/mm/yyyy"
           retry_count: 6
           retry_wait_time: 10
-          template: "$newline - $counter > $randomEmoji(🔥,🚀,👨‍💻)  [$title]($url) $categoryName | $categoryName1 | $categoryName2 | $categoryName3 $date"
+          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻) <a href='$url'>$title</a> $principalTag | 📅 $date"
           
           
