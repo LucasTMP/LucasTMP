@@ -30,6 +30,8 @@
 
 ## **Minhas Postagens 📝**
 <!-- BLOG-POST-LIST:START -->
+- [C#10 e ASP.NET 6, oque esperar dessa dupla?](https://dev.to/vaivoa/c10-e-aspnet-6-oque-esperar-dessa-dupla-14k6)
+- [C#10 e ASP.NET 6, oque esperar dessa dupla?](https://dev.to/lucastmp/c10-e-aspnet-6-oque-esperar-dessa-dupla-3oc)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
