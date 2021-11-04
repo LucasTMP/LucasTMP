@@ -24,9 +24,13 @@
 
  <div>
   <a href="https://github.com/LucasTMP">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&hide=Java,CSS&layout=compact"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&hide=Java,CSS&layout=compact"/>
 </div>
+
+## **Minhas Postagens 📝**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <hr>
 <div align="center">
