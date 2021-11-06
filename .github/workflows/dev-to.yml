@@ -25,6 +25,6 @@ jobs:
           date_format: "dd/mm/yyyy"
           retry_count: 6
           retry_wait_time: 10
-          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻) <a href='$url'>$title</a> | 🏷️ Tags: $categories | 📅 Data: $date"
+          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻) <a href='$url'>$title</a> | 🏷️ **Tags:** $categories | 📅 **Data**: $date"
           
           
