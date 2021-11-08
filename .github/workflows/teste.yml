@@ -1,29 +1,29 @@
-name: Dev.To Integração TESTE
-on:
-  schedule:
-     - cron: '0 12 * * *'
-  workflow_dispatch:
-    inputs:
-      colaborador:
-        description: 'Seu nome'     
-        required: true
-        default: 'anonimo'
+# name: Dev.To Integração TESTE
+# on:
+#   schedule:
+#      - cron: '0 12 * * *'
+#   workflow_dispatch:
+#     inputs:
+#       colaborador:
+#         description: 'Seu nome'     
+#         required: true
+#         default: 'anonimo'
     
-jobs:
-  buscar-minhas-postagens:
-    name: buscar-postagens
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/vaivoa"
-          enable_keepalive: true
-          commit_message: "Commit para re-load do action Dev.To"
-          committer_username: "dev-to-bot"
-          custom_tags: "autor/author/"
-          date_format: "dd/mm/yyyy"
-          retry_count: 6
-          readme_path: "./blog/postagens/README.md"
-          retry_wait_time: 10
-          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻) <a href='$url'>$title</a> | 🏷️ **Tags:** $categories | 📅 **Data**: $date | ✍️ **Autor**: $autor"
+# jobs:
+#   buscar-minhas-postagens:
+#     name: buscar-postagens
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           feed_list: "https://dev.to/feed/vaivoa"
+#           enable_keepalive: true
+#           commit_message: "Commit para re-load do action Dev.To"
+#           committer_username: "dev-to-bot"
+#           custom_tags: "autor/author/"
+#           date_format: "dd/mm/yyyy"
+#           retry_count: 6
+#           readme_path: "./blog/postagens/README.md"
+#           retry_wait_time: 10
+#           template: "$newline - $randomEmoji(🔥,🚀,👨‍💻) <a href='$url'>$title</a> | 🏷️ **Tags:** $categories | 📅 **Data**: $date | ✍️ **Autor**: $autor"
