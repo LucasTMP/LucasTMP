@@ -30,8 +30,10 @@
 
 ## **Minhas Postagens 📝**
 <!-- BLOG-POST-LIST:START -->
- - 👨‍💻 <a href='https://dev.to/vaivoa/c10-e-aspnet-6-oque-esperar-dessa-dupla-14k6'>C#10 e ASP.NET 6, oque esperar dessa dupla?</a> | 🏷️ **Tags:** csharp, programming, vaivoa, net6 | 📅 **Data**: 04/11/2021
- - 🚀 <a href='https://dev.to/lucastmp/c10-e-aspnet-6-oque-esperar-dessa-dupla-3oc'>C#10 e ASP.NET 6, oque esperar dessa dupla?</a> | 🏷️ **Tags:** csharp, programming, vaivoa, net6 | 📅 **Data**: 22/10/2021<!-- BLOG-POST-LIST:END -->
+ - 👨‍💻 <a href='https://dev.to/vaivoa/mercado-financeiro-onboarding-para-devs-i27'>Mercado Financeiro: Onboarding para Devs.</a> | 🏷️ **Tags:** finanças, investimento, b3, vaivoa | 📅 **Data**: 22/11/2021
+ - 🚀 <a href='https://dev.to/lucastmp/mercado-financeiro-onboarding-para-devs-384d'>Mercado Financeiro: Onboarding para Devs.</a> | 🏷️ **Tags:** vaivoa, finanças, investimento, b3 | 📅 **Data**: 22/11/2021
+ - 🔥 <a href='https://dev.to/vaivoa/c10-e-aspnet-6-oque-esperar-dessa-dupla-14k6'>C#10 e ASP.NET 6, oque esperar dessa dupla?</a> | 🏷️ **Tags:** csharp, programming, vaivoa, net6 | 📅 **Data**: 04/11/2021
+ - 👨‍💻 <a href='https://dev.to/lucastmp/c10-e-aspnet-6-oque-esperar-dessa-dupla-3oc'>C#10 e ASP.NET 6, oque esperar dessa dupla?</a> | 🏷️ **Tags:** csharp, programming, vaivoa, net6 | 📅 **Data**: 22/10/2021<!-- BLOG-POST-LIST:END -->
 
 <hr>
 <div align="center">
