@@ -3,7 +3,7 @@
 <img style="border-radius:50px" src="https://i.ibb.co/DD8VXQr/perfil.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
 
 <p align="left"> 
-  👨 <strong>Sobre:</strong> Tenho 22 anos, brasileiro, formado em Análise e Desenvolvimento de Sistemas e adoro tecnologia.
+  👨 <strong>Sobre:</strong> Tenho 24 anos, brasileiro, formado em Análise e Desenvolvimento de Sistemas e adoro tecnologia.
 </p>
 
 <p align="left">
