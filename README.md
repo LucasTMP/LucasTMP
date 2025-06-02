@@ -9,16 +9,18 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasTMP&show_icons=true&count_private=false&title_color=00ff91&icon_color=00ff91&text_color=ffffff&bg_color=0d1117&border_color=fff0" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact&show_icons=true&count_private=false&title_color=00ff91&icon_color=00ff91&text_color=ffffff&bg_color=0d1117&border_color=fff0" />
+  <img src="./assets/linebar.png" width="100%" height="8px"/>
 </div>
 
-<img src="./assets/linebar.png" width="100%" height="8px"/>
+<br />
 
 <div>
 <p><strong> > About me: </strong></p>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Lucas Paes and I am a Software Developer and Graduate in Systems Analysis and Development. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to become a Software Architect and a .NET specialist.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is .Net C#.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I love watching how technology evolves and I'm passionate about being part of that journey. I want to be surrounded by people and companies that strive to stand out in the world through innovation.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I love watching how technology evolves and I'm passionate about being part of that journey. I want to be surrounded by people and companies that strive to stand out in the world through innovation.<br /><br />
+<img src="./assets/linebar.png" width="100%" height="8px"/>
 </div>
 
 <br />
