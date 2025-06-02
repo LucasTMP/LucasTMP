@@ -1,42 +1,62 @@
-# Olá, sou o Lucas 👋
-
-<img style="border-radius:50px" src="https://i.ibb.co/DD8VXQr/perfil.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
-
-<p align="left"> 
-  👨 <strong>Sobre:</strong> Tenho 24 anos, brasileiro, formado em Análise e Desenvolvimento de Sistemas e adoro tecnologia.
-</p>
-
-<p align="left">
-  🎯 <strong>Área de atuação:</strong> Analista Desenvolvedor Back-end.
-</p>
-
-<p align="left">
-  💡 <strong>Conhecimentos:</strong> C#, .Net, JS, VBA, EFCORE, Node.JS, MySQL, MongoDB, UML, ELK, Redis, Kafka, Testes, Redes, Docker.
-</p>
-
-[![Github Badge](	https://img.shields.io/badge/C-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasTMP/)
-[![Linkedin Badge](	https://img.shields.io/badge/O-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastmp/)
-[![Instagram Badge](https://img.shields.io/badge/D-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucastmp_/)
-[![Facebook Badge](https://img.shields.io/badge/E-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucastmp/)
-[![Discord Badge](https://img.shields.io/badge/Discord-Lucas_Teixeira%236436-ffffff?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discordapp.com/users/236735001134235648/)
- 
-## **Informações Adicionais 📈**
-
- <div>
-  <a href="https://github.com/LucasTMP">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=LucasTMP&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&hide=Java,CSS&layout=compact"/>
+<div align="center">
+  <img height="350em" width="100%" src="./assets/github_banner.png"/>
 </div>
 
-## **Minhas Postagens 📝**
-<!-- BLOG-POST-LIST:START -->
- - 👨‍💻 <a href='https://dev.to/vaivoa/mercado-financeiro-onboarding-para-devs-i27'>Mercado Financeiro: Onboarding para Devs.</a> | 🏷️ **Tags:** finanças, investimento, b3, vaivoa | 📅 **Data**: 22/11/2021
- - 🚀 <a href='https://dev.to/lucastmp/mercado-financeiro-onboarding-para-devs-384d'>Mercado Financeiro: Onboarding para Devs.</a> | 🏷️ **Tags:** vaivoa, finanças, investimento, b3 | 📅 **Data**: 22/11/2021
- - 🔥 <a href='https://dev.to/vaivoa/c10-e-aspnet-6-oque-esperar-dessa-dupla-14k6'>C#10 e ASP.NET 6, oque esperar dessa dupla?</a> | 🏷️ **Tags:** csharp, programming, vaivoa, net6 | 📅 **Data**: 04/11/2021
- - 👨‍💻 <a href='https://dev.to/lucastmp/c10-e-aspnet-6-oque-esperar-dessa-dupla-3oc'>C#10 e ASP.NET 6, oque esperar dessa dupla?</a> | 🏷️ **Tags:** csharp, programming, vaivoa, net6 | 📅 **Data**: 22/10/2021<!-- BLOG-POST-LIST:END -->
+<h3 align="center">
+  Software Developer • Tech enthusiast • Gamer
+</h3>
 
-<hr>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasTMP&show_icons=true&count_private=false&title_color=00ff91&icon_color=00ff91&text_color=ffffff&bg_color=0d1117&border_color=fff0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTMP&layout=compact&show_icons=true&count_private=false&title_color=00ff91&icon_color=00ff91&text_color=ffffff&bg_color=0d1117&border_color=fff0" />
+</div>
+
+<img src="./assets/linebar.png" width="100%" height="8px"/>
+
+<div>
+<p><strong> > About me: </strong></p>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Lucas Paes and I am a Software Developer and Graduate in Systems Analysis and Development. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to become a Software Architect and a .NET specialist.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is .Net C#.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I love watching how technology evolves and I'm passionate about being part of that journey. I want to be surrounded by people and companies that strive to stand out in the world through innovation.<br />
+</div>
+
+<br />
+
+<div>
+<p><strong> > My Stack: </strong></p>
+<img src="https://skillicons.dev/icons?i=visualstudio,git,github,dotnet,docker,cs,elasticsearch,html,js,kafka,rabbitmq,kubernetes,nodejs,redis,mongodb,&theme=dark" />
+<img src="./assets/linebar.png" width="100%" height="8px"/>
+</div>
+
+<br />
+
+<div>
+<p><strong> > Contact Me: </strong></p>
+<p><a href="https://www.linkedin.com/in/lucastmp/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+<br /><br />
+<img src="./assets/linebar.png" width="100%" height="8px"/>
+</div>
+
+<br />
+
+<div>
+<p><strong> > My Posts: </strong></p>
+<!-- BLOG-POST-LIST:START -->
+- 👨‍💻 <a href='https://dev.to/vaivoa/mercado-financeiro-onboarding-para-devs-i27'>Mercado Financeiro: Onboarding para Devs.</a> | 🏷️ **Tags:** finanças, investimento, b3, vaivoa | 📅 **Data**: 22/11/2021 <br />
+- 🚀 <a href='https://dev.to/lucastmp/mercado-financeiro-onboarding-para-devs-384d'>Mercado Financeiro: Onboarding para Devs.</a> | 🏷️ **Tags:** vaivoa, finanças, investimento, b3 | 📅 **Data**: 22/11/2021 <br />
+- 🔥 <a href='https://dev.to/vaivoa/c10-e-aspnet-6-oque-esperar-dessa-dupla-14k6'>C#10 e ASP.NET 6, oque esperar dessa dupla?</a> | 🏷️ **Tags:** csharp, programming, vaivoa, net6 | 📅 **Data**: 04/11/2021 <br />
+- 👨‍💻 <a href='https://dev.to/lucastmp/c10-e-aspnet-6-oque-esperar-dessa-dupla-3oc'>C#10 e ASP.NET 6, oque esperar dessa dupla?</a> | 🏷️ **Tags:** csharp, programming, vaivoa, net6 | 📅 **Data**: 22/10/2021 <br />
+<!-- BLOG-POST-LIST:END -->
+<br /><br />
+<img src="./assets/linebar.png" width="100%" height="8px"/>
+</div>
+
+<br />
+
 <div align="center">
-<label><b>Total de visualizações do perfil: &ensp;&ensp;</b></label>
+<label><b>Total profile views: &ensp;&ensp;</b></label>
 <img width="150px" height="16px" src="https://profile-counter.glitch.me/LucasTMP/count.svg" />
+<br /><br />
+<img src="./assets/linebar.png" width="100%" height="8px"/>
 </div>
