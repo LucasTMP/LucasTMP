@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Software Developer • Tech enthusiast • Gamer
+  Software Developer • Tech Enthusiast • Gamer
 </h3>
 
 <div align="center">  
